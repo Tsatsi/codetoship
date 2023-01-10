@@ -37,8 +37,10 @@ Good examples of lead measures:
 
 *Goal*: Get a professional certificate in project management by 31st July 2023
 *Lead Measures*:
-Study for the test at least for 1hr daily
-Write at least one mock test monthly
+- Study for the test at least for 1hr daily
+- Write at least one mock test monthly
+- Attend at least one online course monthly
+
 It is important to note that lead measures are within your control. It’s possible that you can fail to achieve your goal, but the actions that lead up to the goal are well within your control. The real test of your commitment towards your goal is if you can stick with the lead measures required to achieve the goal.
 
 # Keep track of your progress.
