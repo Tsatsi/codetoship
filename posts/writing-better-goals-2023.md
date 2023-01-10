@@ -36,6 +36,7 @@ The steps you control also need to be measurable to know when you have done or f
 Good examples of lead measures:
 
 *Goal*: Get a professional certificate in project management by 31st July 2023
+
 *Lead Measures*:
 - Study for the test at least for 1hr daily
 - Write at least one mock test monthly
