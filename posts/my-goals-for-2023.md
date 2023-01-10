@@ -1,5 +1,5 @@
 ---
-title:  My goals for 2023.
+title:  My goals for 2023
 description: My list of goals for 2023.
 date: 2023-01-01
 tags:

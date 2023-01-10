@@ -1,5 +1,5 @@
 ---
-title:  How to write better goals.
+title:  How to write better goals
 description: How I will be improving my goals.
 date: 2023-01-10
 tags:
