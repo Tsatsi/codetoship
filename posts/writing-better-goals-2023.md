@@ -9,9 +9,9 @@ layout: layouts/post.njk
 # How to define a goal
 The most important thing in defining a goal is to know when you have achieved it or have failed to archive it. A goal should have a precise measure that moves you from point A to B by a set due date.
 Here are some good examples
-Lose 5kg by 31st March 2023
-Launch Minimum Viable Product by 31st March 2023
-Gain an average of 10 followers every month by 31st June 2023
+- Lose 5kg by 31st March 2023
+- Launch Minimum Viable Product by 31st March 2023
+- Gain an average of 10 followers every month by 31st June 2023
 
 Here are some bad examples
 - Get a professional certificate
