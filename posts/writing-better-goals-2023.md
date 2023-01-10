@@ -45,7 +45,7 @@ Write at least one mock test monthly
 It is important to note that lead measures are within your control. It’s possible that you can fail to achieve your goal, but the actions that lead up to the goal are well within your control. The real test of your commitment towards your goal is if you can stick with the lead measures required to achieve the goal.
 
 # Keep track of your progress.
-It’s easy to lose sight of our goals and become distracted by everything competing for our attention. That’s why it’s essential to track our progress so that we know when we’ve steered off track.
+It’s easy to lose sight of our goals and become distracted by everything competing for our attention. That’s why tracking our progress is essential: we know when we’ve steered off track.
 Tracking progress can be achieved through a simple to-do list with lead measures or tasks we need to complete daily. A sense of progress keeps us moving and will motivate you daily as you make every day count.
 Make everyday count
 
