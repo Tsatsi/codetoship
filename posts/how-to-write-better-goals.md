@@ -1,5 +1,5 @@
 ---
-title:  How to write better goals for 2023.
+title:  How to write better goals.
 description: How I will be improving my goals.
 date: 2023-10-01
 tags:
