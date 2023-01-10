@@ -1,12 +1,12 @@
 ---
 title:  How to write better goals.
 description: How I will be improving my goals.
-date: 2023-10-01
+date: 2023-01-10
 tags:
   - goals
 layout: layouts/post.njk
 ---
-# How to define a goal
+## How to define a goal
 The most important thing in defining a goal is to know when you have achieved it or have failed to archive it. A goal should have a precise measure that moves you from point A to B by a set due date.
 Here are some good examples
 - Lose 5kg by 31st March 2023
@@ -23,14 +23,14 @@ The above goals don’t have a precise measure, and it is impossible to know whe
 - Lose 5 Kg by 31st March 2023
 - Finish a half marathon by 31st December 2023
 
-# Focus on the most important goals
+## Focus on the most important goals
 2022 was one of my most productive years because I focused on the most important goals. The most important goals are those that make all the difference if you achieve them. I set three big goals for each quarter of the year and identified the most crucial objective.
 
 Setting quarterly goals forces me to keep my goals small enough to achieve in three months. If there’s a goal I’d like to accomplish for the year, I break it down into smaller achievable goals that can be done within a quarter. There are several reasons why you’d want to keep your goals viable within 3 months. The most important one for me is to get a sense of progress. Getting a sense of progress motivates you to keep going, and I try to get that daily.
 
 You can set a goal to lose 5 kg in a month, but you’ll only really know whether you’ve achieved that goal after a month, but there are things you can do to increase the chances of reaching that goal. These things are within your control, like how much time you spend at the gym or what you eat.
 
-# Pay attention to the actions within your control.
+## Pay attention to the actions within your control.
 Once you’ve set a goal, you need to identify the steps within your control that you can take daily or weekly to move you closer to your destination. These are also referred to as lead measures.
 The steps you control also need to be measurable to know when you have done or failed to do them.
 Good examples of lead measures:
@@ -44,7 +44,7 @@ Good examples of lead measures:
 
 It is important to note that lead measures are within your control. It’s possible that you can fail to achieve your goal, but the actions that lead up to the goal are well within your control. The real test of your commitment towards your goal is if you can stick with the lead measures required to achieve the goal.
 
-# Keep track of your progress.
+## Keep track of your progress.
 It’s easy to lose sight of our goals and become distracted by everything competing for our attention. That’s why tracking our progress is essential: we know when we’ve steered off track.
 Tracking progress can be achieved through a simple to-do list with lead measures or tasks we need to complete daily. A sense of progress keeps us moving and will motivate you daily as you make every day count.
 Make everyday count
@@ -55,5 +55,5 @@ Completing at least one important task or lead measure daily that brings you clo
 
 Life happens, and there are days when it’s impossible to contribute towards your goal, but consistently failing is failing yourself.
 
-# Summary
+## Summary
 It is essential to define clear, measurable goals that have a timeline. Once you have defined your goals identify the most crucial goal and prioritise it. Pay close attention to the quantifiable things within your control that bring you closer to your goal, and measure your progress regularly. Make every day count.
