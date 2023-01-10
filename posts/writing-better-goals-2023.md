@@ -1,4 +1,3 @@
-
 ---
 title:  How to write better goals for 2023.
 description: How I will be improving my goals.
@@ -7,8 +6,6 @@ tags:
   - goals
 layout: layouts/post.njk
 ---
-
-
 # How to define a goal
 The most important thing in defining a goal is to know when you have achieved it or have failed to archive it. A goal should have a precise measure that moves you from point A to B by a set due date.
 Here are some good examples
