@@ -1,6 +1,6 @@
 ---
-title:  Building blocks of successful software.
-description: Things I wish people new about software.
+title:  The building blocks of successful software.
+description: Things I wish more people new about software.
 date: 2023-01-22
 tags:
   - product
